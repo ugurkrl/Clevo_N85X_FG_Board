@@ -7048,6 +7048,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <wire x1="137.16" y1="132.08" x2="124.46" y2="132.08" width="0.1524" layer="91"/>
 <junction x="137.16" y="129.54"/>
 <junction x="124.46" y="132.08"/>
+<pinref part="U1" gate="A" pin="FUSE"/>
+<wire x1="134.62" y1="129.54" x2="137.16" y2="129.54" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="U1" gate="A" pin="NC_2"/>
