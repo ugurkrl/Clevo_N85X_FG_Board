@@ -1,5 +1,6 @@
 # Clevo_N85X_FG_Board
 BQ40z50/BQ4050 Fuel Gauge board for Clevo N850/5/7(Monster A5 V9) notebook computers.
+
 **To-Do**
 1. Going to redesign whole circuit with Altium
 1. Add external balancing 
