@@ -1,4 +1,7 @@
 # Clevo_N85X_FG_Board
+Archived because i no longer have any Clevo laptop.
+But this design works fine. Just tie FUSE pin to ground. Also dont forget to switch order of SDA and SCL pins !
+I used this design longer than 2 years and i had no stability issues. Just make sure your BQ40z50 or 4050 settings are OK
 BQ40z50/BQ4050 Fuel Gauge board for Clevo N850/5/7(Monster A5 V9) notebook computers.
 
 **To-Do**
